@@ -56,17 +56,7 @@ Finally, deployed the Flask app to Heroku.
 
   ![PIE Chart](Images/pie_chart.png)
 
-*  (`/samples/<sample>`) 
 
-  * Use `otu_ids` for the x values
-
-  * Use `sample_values` for the y values
-
-  * Use `sample_values` for the marker size
-
-  * Use `otu_ids` for the marker colors
-
-  * Use `otu_labels` for the text values
 
   ![Bubble Chart](Images/bubble_chart.png)
 
