@@ -51,16 +51,12 @@ Displayed each key/value pair from the metadata JSON object somewhere on the pag
 
 Updated the metadata for each sample that is selected
 
-Finally, deployed the Flask app to Heroku.
-
 
   ![PIE Chart](Images/pie_chart.png)
 
 
 
-  ![Bubble Chart](Images/bubble_chart.png)
 
-* `/metadata/<sample>`
 
  
 ![Example Dashboard Page](Images/dashboard_part1.png)
